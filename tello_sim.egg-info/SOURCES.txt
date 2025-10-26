@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+tello_sim/__init__.py
+tello_sim/simulator.py
+tello_sim.egg-info/PKG-INFO
+tello_sim.egg-info/SOURCES.txt
+tello_sim.egg-info/dependency_links.txt
+tello_sim.egg-info/requires.txt
+tello_sim.egg-info/top_level.txt

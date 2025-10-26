@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+tello_sim_EDRA/__init__.py
+tello_sim_EDRA/simulator.py
+tello_sim_EDRA.egg-info/PKG-INFO
+tello_sim_EDRA.egg-info/SOURCES.txt
+tello_sim_EDRA.egg-info/dependency_links.txt
+tello_sim_EDRA.egg-info/requires.txt
+tello_sim_EDRA.egg-info/top_level.txt
