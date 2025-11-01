@@ -54,7 +54,7 @@ class Simulator():
     def command(self):
         print("Hi! My name is TelloSim and I am your training drone.")
         print("I help you try out your flight plan before sending it to a real Tello.")
-        print("I am now ready to take off. 🚁")
+        print("I am now ready to take off.")
         self.send_command('command')
 
     def check_takeoff(self):
